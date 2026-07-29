@@ -1,0 +1,23 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@tailwindcss/postcss": "^4.3.3",
+        "autoprefixer": "^10.5.4",
+        "axios": "^1.18.1",
+        "laravel-vite-plugin": "^1.0",
+        "postcss": "^8.5.24",
+        "tailwindcss": "^4.3.3",
+        "vite": "^5.0"
+    },
+    "dependencies": {
+        "@vitejs/plugin-vue": "^6.0.8",
+        "@vuepic/vue-datepicker": "^14.0.0",
+        "vue": "^3.5.40",
+        "vue-router": "^4.6.4"
+    }
+}
