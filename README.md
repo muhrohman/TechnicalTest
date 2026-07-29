@@ -14,11 +14,11 @@ Aplikasi manajemen stok barang berbasis web
 
 ## Persyaratan Sistem
 
-- PHP >= 8.4
+- PHP >= 8.4 (Wajib)
 - Composer
 - Node.js & npm (v18+)
 - MySQL
-- Gunakan Nginx
+- Gunakan Nginx (Wajib)
 
 ---
 
